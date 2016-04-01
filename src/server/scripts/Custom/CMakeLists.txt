@@ -41,7 +41,6 @@ Custom/CustomFunStuff/Bloodmoneyduels.cpp
 Custom/CustomFunStuff/Boss_Announcer.cpp
 Custom/CustomFunStuff/playertools.cpp
 Custom/CustomFunStuff/professions.cpp
-Custom/CustomFunStuff/Phased_duel.cpp
 Custom/CustomFunStuff/druidformhackfix.cpp
 Custom/CustomFunStuff/morpher_npc.cpp
 Custom/3v3/npc_solo3v3.cpp

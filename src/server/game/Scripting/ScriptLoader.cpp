@@ -1455,7 +1455,6 @@ void AddSC_cs_world_chat(); // worldchat
 void Add_SC_Custom_Rates(); // custom rate 
 void AddSC_npc_enchantment(); // enchantments npc
 void AddSC_Reset();// duel reset
-void AddSC_PhasedDueling(); // this will phase you, so you cannot see objects or any other players nor can they see you
 void AddSC_Professions_NPC(); // instant proffesions hype!
 void AddSC_multi_changer(); // can change name, race and customize your looks!
 void AddSC_Morpher_Npc();  // will morph player base on they choose
@@ -1506,7 +1505,6 @@ void AddCustomScripts()
 	Add_SC_Custom_Rates(); // custom rate 
 	AddSC_npc_enchantment(); // enchantments npc
 	AddSC_Reset();// duel reset
-	AddSC_PhasedDueling(); // this will phase you, so you cannot see objects or any other players nor can they see you
 	AddSC_Professions_NPC(); // instant proffesions hype!
 	AddSC_multi_changer(); // can change name, race and customize your looks!
 	AddSC_Morpher_Npc();  // will morph player base on they choose
